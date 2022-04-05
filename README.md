@@ -7,7 +7,7 @@ I made the app, but the source code is private 😢😢<br>
 소스코드는 private로 변경했습니다.
 
 
-Android, MVVM, Kotlin, coroutine , Retrofit2, OkHttp3,  Gson, Glide, SingleEvent, RestAPI, DataBinding <br>
+Android, MVVM, Kotlin, coroutine , Retrofit2, OkHttp3,  Gson, Glide, SingleEvent, RestAPI, DataBinding, Dagger Hilt <br>
 
 compileSdk 31 <br>
 minSdk 24 <br>
