@@ -1,5 +1,8 @@
 # github_rest_api_kotlin_public
 
+
+![image](https://user-images.githubusercontent.com/47763201/161700536-3ee96610-065c-45df-950c-1023532dd281.png)
+
 I made the app, but the source code is private 😢😢<br>
 소스코드는 private로 변경했습니다.
 
